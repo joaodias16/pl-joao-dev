@@ -7,8 +7,7 @@
   const contactForm = document.getElementById("contactForm");
   const formNote = document.getElementById("formNote");
 
-  /* Cole seu número com DDI, só dígitos. Ex.: 5551999990000 */
-  const WHATSAPP = "";
+  const WHATSAPP = "5551982696986";
 
   function handleScroll() {
     if (!header) return;
