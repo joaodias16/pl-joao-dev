@@ -1,29 +1,16 @@
-# Landing Page — Tec Gold Assistência Técnica
+# Landing Page — João · Full Stack & IA
 
-Landing page de assistência técnica de eletrodomésticos em Porto Alegre, em HTML, CSS e JavaScript puro.
+Site pessoal em HTML, CSS e JavaScript puro. Retratos em cartoon gerados a partir de foto.
 
 ## Como visualizar
 
-Abra o arquivo `index.html` no navegador, ou use um servidor local:
+Abra a pasta no VS Code/Cursor e use o **Live Server** no `index.html`.
 
-```bash
-python -m http.server 8000
-```
+## Personalizar antes de publicar
 
-Acesse `http://localhost:8000`
-
-## Dados do site
-
-| Campo | Valor |
-|-------|-------|
-| WhatsApp | (51) 98913-8224 |
-| Instagram | [@tecgold.lavaeseca](https://www.instagram.com/tecgold.lavaeseca/) |
-| Endereço | Rua Ramis Galvão, 250 — Passo d'Areia, Porto Alegre — RS |
-| Horário | Seg–sex 8h–18h · Sáb 9h–17h |
-| Nota | 4.9 |
-
-`robots.txt` e `sitemap.xml` usam o domínio placeholder `tecgoldassistencia.com.br`. Troque pelo domínio real antes de publicar.
-
-## Deploy
-
-Hospede a pasta em qualquer serviço de site estático (Netlify, Vercel ou GitHub Pages).
+| Campo | Onde |
+|-------|------|
+| WhatsApp | `index.html` e `js/main.js` |
+| E-mail | `index.html` e `politica-privacidade.html` |
+| GitHub / LinkedIn | `index.html` |
+| Domínio | `robots.txt` e `sitemap.xml` |
